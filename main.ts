@@ -1,3 +1,8 @@
+/**
+ * 0 = on 
+ * 
+ * 1 = off
+ */
 function _7 () {
     pins.digitalWritePin(DigitalPin.P1, 0)
     pins.digitalWritePin(DigitalPin.P2, 0)
@@ -55,11 +60,6 @@ function _5 () {
     pins.digitalWritePin(DigitalPin.P14, 0)
     pins.digitalWritePin(DigitalPin.P15, 0)
 }
-/**
- * 0 = on 
- * 
- * 1 = off
- */
 function _3 () {
     pins.digitalWritePin(DigitalPin.P1, 0)
     pins.digitalWritePin(DigitalPin.P2, 0)

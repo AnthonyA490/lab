@@ -32,14 +32,23 @@ function _6 () {
 }
 input.onButtonPressed(Button.A, function () {
     _0()
+    basic.pause(1000)
     _1()
+    basic.pause(1000)
     _2()
+    basic.pause(1000)
     _3()
+    basic.pause(1000)
     _4()
+    basic.pause(1000)
     _5()
+    basic.pause(1000)
     _6()
+    basic.pause(1000)
     _7()
+    basic.pause(1000)
     _8()
+    basic.pause(1000)
     _9()
 })
 function _9 () {
